@@ -1,0 +1,7 @@
+from num2words import num2words
+
+numero = int(input("Ingrese un número: "))
+
+texto = num2words(numero, lang='es')
+
+print("El número en texto es:", texto)
