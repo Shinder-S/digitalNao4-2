@@ -1,3 +1,5 @@
 # digitalNao4-2
 
-En este repositorio estare desarrollando unos mini proyectos en Python para el curso de Full Stack Core de Digital Nao
+In this repository I will be developing some mini projects in Python for Digital Nao's Full Stack Core course
+
+The different mini projects for the course are separated for your better understanding. Everyone has comments to explain
